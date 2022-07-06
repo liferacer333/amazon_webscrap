@@ -2,3 +2,4 @@
 * Scraping amazon product using Python & BeautifulSoup
 
 <img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-bs4-brightgreen"/>
